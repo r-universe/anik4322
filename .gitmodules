@@ -3,3 +3,18 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "combinatorics"]
+	path = combinatorics
+	url = https://github.com/cran/combinatorics
+	shallow = true
+	registered = true
+[submodule "minsample1"]
+	path = minsample1
+	url = https://github.com/cran/minsample1
+	shallow = true
+	registered = true
+[submodule "minsample2"]
+	path = minsample2
+	url = https://github.com/cran/minsample2
+	shallow = true
+	registered = true
